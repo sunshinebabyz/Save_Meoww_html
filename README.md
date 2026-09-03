@@ -1,6 +1,5 @@
 
-# 🐱 Save Meow
-https://2256210028.netlify.app/
+# 🐱 Save Meow (https://2256210028.netlify.app/)
 
 A responsive pet shop and cat adoption website built with **HTML, CSS, and JavaScript**.
 
